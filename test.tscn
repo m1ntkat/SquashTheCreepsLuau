@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://sksfo6j6bew6"]
+
+[ext_resource type="Script" path="res://HelloWorld.lua" id="1_3lggy"]
+
+[node name="Node" type="Node"]
+script = ExtResource("1_3lggy")
